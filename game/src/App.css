@@ -23,6 +23,11 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.App-header{
+  .App-link{
+    
+  }
+}
 
 .App-link {
   color: #61dafb;
